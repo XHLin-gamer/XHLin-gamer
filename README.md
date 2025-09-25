@@ -10,19 +10,8 @@ I publish code here that solves everyday problems I encounter in my daily life. 
 
 <div align="center">
 
-  <!-- Stats and Languages side by side on wide screens, stacked on mobile -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    
-   <img 
-      src="https://github-readme-stats.vercel.app/api?username=XHLin-gamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-      alt="XHLin-gamer's GitHub stats" 
-      height="180" />
-    
-   <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLin-gamer&layout=compact&theme=tokyonight&hide_border=true" 
-      alt="Top Languages" 
-      height="180" />
-  </div>
+| <img src="https://github-readme-stats.vercel.app/api?username=XHLin-gamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLin-gamer&layout=compact&theme=tokyonight&hide_border=true" height="180" /> |
+|---|---|
 
 </div>
 
