@@ -10,10 +10,14 @@ I publish code here that solves everyday problems I encounter in my daily life. 
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=XHLin-gamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLin-gamer&layout=compact&theme=tokyonight&hide_border=true" height="180" /> |
-|---|---|
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=XHLin-gamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  height="180" /> <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLin-gamer&layout=compact&theme=tokyonight&hide_border=true" 
+  height="180" />
 
 </div>
+
 
 
 Want to learn more about me? Check out my [CV](https://xhlin-gamer.github.io/)!
