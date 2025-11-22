@@ -6,7 +6,7 @@
 
 </div>
 
-I publish code here that solves everyday problems I encounter in my daily life. Sometimes I might be too busy to code, but I'll do my best to respond if you raise any issue in my projects.
+I publish code here that solves everyday problems encountered in daily life. Sometimes I might be too busy to code, but I'll do my best to respond if you raise any issue in my projects.
 
 <div align="center">
 
