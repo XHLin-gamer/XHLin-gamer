@@ -10,11 +10,12 @@ I publish code here that solves everyday problems encountered in daily life. Som
 
 <div align="center">
 
-<img 
+<!-- <img 
   src="https://github-readme-stats.vercel.app/api?username=XHLin-gamer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
   height="180" /> <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHLin-gamer&layout=compact&theme=tokyonight&hide_border=true" 
-  height="180" />
+  height="180" /> -->
+  [![XHLin's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=XHLin-gamer)](https://github.com/XHLin-gamer/XHLin-gamer)
 
 </div>
 
